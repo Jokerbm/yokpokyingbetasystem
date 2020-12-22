@@ -1,0 +1,32 @@
+login
+    facebook
+    mongo
+    new account facebook fro prod(admin)
+profile
+    name
+    rank
+    win ratio
+    all match(table)
+    trophy(all win)
+    can edit rank winrate or ban user (admin)
+generate match
+    input team
+    print qr code with uniqid
+all match
+    (table van watch)
+    user now
+    online user in right
+cronjon
+    delete rank past hour
+    get rank
+rank%
+    find % of rankin in csgo
+clans
+    find
+    join
+    show
+    ranking clan
+scan
+    https://github.com/dmamills/elo-rank
+    then get hidden elo 
+    if hidde rank != rank now update rank
